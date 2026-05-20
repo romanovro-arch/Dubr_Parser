@@ -1,0 +1,12 @@
+G:\володя\ForumParserSolution\ForumParser.DbLibrary\bin\Debug\net8.0\ForumParser.DbLibrary.deps.json
+G:\володя\ForumParserSolution\ForumParser.DbLibrary\bin\Debug\net8.0\ForumParser.DbLibrary.dll
+G:\володя\ForumParserSolution\ForumParser.DbLibrary\bin\Debug\net8.0\ForumParser.DbLibrary.pdb
+G:\володя\ForumParserSolution\ForumParser.DbLibrary\obj\Debug\net8.0\ForumParser.DbLibrary.csproj.AssemblyReference.cache
+G:\володя\ForumParserSolution\ForumParser.DbLibrary\obj\Debug\net8.0\ForumParser.DbLibrary.GeneratedMSBuildEditorConfig.editorconfig
+G:\володя\ForumParserSolution\ForumParser.DbLibrary\obj\Debug\net8.0\ForumParser.DbLibrary.AssemblyInfoInputs.cache
+G:\володя\ForumParserSolution\ForumParser.DbLibrary\obj\Debug\net8.0\ForumParser.DbLibrary.AssemblyInfo.cs
+G:\володя\ForumParserSolution\ForumParser.DbLibrary\obj\Debug\net8.0\ForumParser.DbLibrary.csproj.CoreCompileInputs.cache
+G:\володя\ForumParserSolution\ForumParser.DbLibrary\obj\Debug\net8.0\ForumParser.DbLibrary.dll
+G:\володя\ForumParserSolution\ForumParser.DbLibrary\obj\Debug\net8.0\refint\ForumParser.DbLibrary.dll
+G:\володя\ForumParserSolution\ForumParser.DbLibrary\obj\Debug\net8.0\ForumParser.DbLibrary.pdb
+G:\володя\ForumParserSolution\ForumParser.DbLibrary\obj\Debug\net8.0\ref\ForumParser.DbLibrary.dll
